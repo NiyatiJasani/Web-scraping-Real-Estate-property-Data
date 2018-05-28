@@ -1,6 +1,6 @@
 # Web-scraping-project
 
-We extract real estate property data and get Property address, property price. 
+We extract real estate property data and get Property address, property price and other identifiers of interest. 
 
 We parse HTML pages with Beautiful Soup
 
